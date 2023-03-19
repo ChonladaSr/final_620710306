@@ -11,7 +11,6 @@ class MyScaffold extends StatelessWidget {
     required this.body,
     this.decoration,
   }) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     var horizontalMargin = getHorizontalPageMargin(context);

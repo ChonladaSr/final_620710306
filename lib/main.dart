@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'pages/home/home_page.dart';
+import 'pages/poll_results/poll_results_page.dart';
 
 void main() {
   runApp(const MyApp());
